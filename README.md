@@ -45,10 +45,10 @@
 <a href="https://linkedin.com/in/joão-leça-aa5633291" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" width="40" height="40" />
 </a>
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:jgranoleca@gmail.com">
   <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40" height="40" />
 </a>
-<a href="https://instagram.com/seuusuario" target="_blank">
+<a href="https://instagram.com/joaogleca" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" height="40" />
 </a>
 
