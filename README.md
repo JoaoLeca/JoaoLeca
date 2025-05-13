@@ -35,6 +35,13 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoLeca/JoaoLeca/output/github-contribution-grid-snake.svg">
 </picture>
 
+#
+
+## 💬 Contato:
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoLeca)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/victor-leca-vlkbr/](https://www.linkedin.com/in/jo%C3%A3o-le%C3%A7a-aa5633291/)) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/joaogleca/)
+
 <!--
 **JoaoLeca/JoaoLeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
