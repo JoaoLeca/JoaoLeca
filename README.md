@@ -37,10 +37,21 @@
 
 #
 
-## 💬 Contato:
+<h3>📫 Vamos nos conectar!</h3>
 
+<a href="https://github.com/JoaoLeca" target="blank">
+  <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" width="40" height="40" />
+</a>
+<a href="https://linkedin.com/in/joão-leça-aa5633291" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" width="40" height="40" />
+</a>
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40" height="40" />
+</a>
+<a href="https://instagram.com/seuusuario" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" height="40" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoLeca)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/victor-leca-vlkbr/](https://www.linkedin.com/in/jo%C3%A3o-le%C3%A7a-aa5633291/)) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/joaogleca/)
 
 <!--
 **JoaoLeca/JoaoLeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
